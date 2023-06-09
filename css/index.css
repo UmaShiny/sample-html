@@ -120,7 +120,7 @@ img{
     font-family: 'Monomaniac One', sans-serif;
 }
 
-@media (max-wiidth: 800px){
+@media (max-width: 800px){
     .site-menu ul{
         display: block;
         text-align: center;
