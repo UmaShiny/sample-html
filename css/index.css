@@ -1,9 +1,8 @@
 @charset "utf-8";
-*,
 
 .first-view{
     height: calc(100vh - 110px);
-    background: url(../images/index/bg-main.jpg);
+    background: url(../images/index/bg_main.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -34,11 +33,12 @@
     margin-top: 20px;
 }
 
-lead{
+.lead{
     max-width: 1200px;
     margin: 60px auto;
 }
 
+*,
 ::before
 ::after{
     padding: 0;
