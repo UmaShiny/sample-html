@@ -106,6 +106,10 @@ img {
         padding-bottom: 50px;
     }
 
+    .header-site-menu.is-show {
+        display: block;
+    }
+
     .main {
         padding-top: 50px;;
     }
