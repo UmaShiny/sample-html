@@ -153,23 +153,11 @@ img {
     }
 
     .header-site-menu.is-show {
-        display: block;
-    }
-
-    .main {
-        padding-top: 50px;;
-    }
-
-    .footer-logo {
-        margin-top: 60px;
-    }
-
-    .copyright {
-        margin-top: 50px;
+        display: block;    
     }
 
     .toggle-menu-button {
-        display: block;
+        display: block;   
         width: 44px;
         height: 34px;
         background-image: url(../images/common/icon-menu.png);
@@ -180,6 +168,18 @@ img {
         border: none;
         border-radius: 0;
         outline: none;
+    }
+
+    .main {
+        padding-top: 50px;    
+    }
+
+    .footer-logo {
+        margin-top: 60px;    
+    }
+
+    .copyright {
+        margin-top: 50px;    
     }
 }
 
